@@ -1,0 +1,41 @@
+@media(max-width:62.5rem){
+.intro{
+    grid-template-columns: 1fr;
+}
+  html{
+    font-size: 50%;
+  }
+}
+@media(max-width:50rem){
+    html{
+      font-size: 40%;
+
+    }
+    .aan{
+        letter-spacing: 1px;
+    }
+  
+    }
+
+ @media(max-width:40rem){
+        html{
+          font-size: 30%;
+    
+        }
+        .ina{
+            letter-spacing: 1px;
+        }
+        .inaa{
+            letter-spacing: 1px;
+        }
+        .an{
+            letter-spacing: 1px;
+        }
+        .aan{
+            letter-spacing: 1px;
+        }
+        .sn{
+            font-size: 3rem;
+        }
+        }
+    
